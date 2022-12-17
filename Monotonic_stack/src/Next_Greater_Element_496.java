@@ -24,3 +24,4 @@ public class Next_Greater_Element_496 {
     }
 }
 //maintain a decreasing stack
+//most important thing to notice is that the value is unique
