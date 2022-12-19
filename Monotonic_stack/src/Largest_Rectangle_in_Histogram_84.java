@@ -24,4 +24,4 @@ public class Largest_Rectangle_in_Histogram_84 {
     }
 }
 // we can maintain an increasing stack
-// 1 2 3 2
+// 1 2 3 1
